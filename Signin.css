@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(https://assets.nflxext.com/ffe/siteui/vlv3/70805ddd-f38c-4e25-94cd-b5015e444ee0/6e99205c-e34b-4dbe-ba45-b026023791bc/IN-en-20230508-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+.box {
+    background-color: #000000BF;
+    position: relative;
+    left: 480px;
+    width: 450px;
+    height: 660px;
+    margin: 0px 0px 90px;
+    padding: 60px 68px 40px;
+    border-radius: 0.5%;
+    box-sizing: border-box;
+}
+
+input[type="email"],
+input[type="password"] {
+    background-color: #333333;
+    padding: 16px 20px 0px;
+    width: 314px;
+    height: 50px;
+    margin: 0px 0px 16px;
+    font-weight: 550;
+    border: none;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 32px;
+    text-align: left;
+    color: #FFFFFF;
+    width: 314px;
+    height: 41px;
+    margin: 0px 0px 28px;
+
+}
+
+.signbtn {
+    position: relative;
+    bottom: 6px;
+}
+
+.signin {
+    padding: 16px;
+    margin: 24px 0px 12px;
+    background-color: #E50914;
+    color: #FFFFFF;
+    width: 314px;
+    height: 50px;
+    font-size: 16px;
+    font-weight: 600;
+    position: relative;
+}
+
+.underbtn {
+    display: flex;
+    width: 314px;
+    height: 194px;
+}
+
+.rememberme {
+    background: #333333;
+    border-color: #333333;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 1px;
+    border-width: none;
+}
+
+.remembertext {
+    color: #B3B3B3;
+    display: block;
+    width: 225.94px;
+    height: 19.2px;
+    font-size: 13px;
+    margin-left: 4px;
+    position: relative;
+    bottom: 1.5px;
+}
+
+.needhelp {
+    color: #B3B3B3;
+    display: inline-block;
+    width: 68.06px;
+    height: 18.5px;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.signup {
+    color: #FFFFFF;
+}
+
+.learnmore {
+    color: #0071EB;
+    font-size: 13px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.innertext {
+    margin: 16px 0px 0px;
+}
+
+.newtonetflix {
+    color: #737373;
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.googlerecaptcha {
+    color: #B3B3B3;
+    font-size: 14px;
+    display: inline-block;
+    margin: 12px 0px 0px;
+}
+
+.form {
+    width: 314px;
+    height: 366px;
+}
+
+.underbtn {
+    width: 314;
+    height: 166px;
+}
+
+.nav {
+    width: 1423;
+    height: 263.09px;
+    background-color: #000000BF;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding: 0px 0px 20px;
+
+}
+
+.content {
+    width: 1000px;
+    height: 243.09;
+    padding: 30px 0px;
+}
+
+.container span {
+    width: 208.2px;
+    height: 16.5px;
+    color: #737373;
+    font-size: 13px;
+    padding: 0px 12px 0px 0px;
+    margin: 0px 0px 14px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: #737373;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.questions {
+    font-size: 16px;
+    color: #737373;
+    margin: 0px 0px 18px;
+    width: 630.9px;
+    height: 20px;
+    display: block;
+    font-weight: 500;
+    margin-left: 8px;
+}
+
+.number {
+    cursor: pointer;
+}
+
+img {
+    width: 200px;
+    height: 90px;
+    margin-left: 35;
+}
+
+.img {
+    width: 1423px;
+    height: 90px;
+}
+
+select {
+    background-color: #000000;
+    padding: 12px 26px 12px 50px;
+    width: 140px;
+    height: 50px;
+    display: block;
+    margin: 20px 0px 0px;
+    color: #a19f9f;
+    font-size: 13px;
+    cursor: pointer;
+    margin-left: 8px;
+}
