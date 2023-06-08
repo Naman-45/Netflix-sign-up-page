@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(https://assets.nflxext.com/ffe/siteui/vlv3/76c10fc9-7ccd-4fbf-bc59-f16a468921ca/4fb4af6e-d0ca-4c7f-b004-b34226727e55/IN-en-20230529-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    font-family: Netflix Sans, Helvetica Neue, Segoe UI, Roboto, Ubuntu, sans-serif;
+}
+
+.header {
+    width: 1343px;
+    height: 86px;
+    display: flex;
+    align-items: center;
+    margin-left: 16px;
+}
+
+.netflixlogo {
+    width: 431.66px;
+    height: 40px;
+    margin-left: 16px;
+}
+
+.langsignin {
+    width: 891.33px;
+    height: 38px;
+    padding: 3px;
+    margin-left: -12px;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.signin {
+    color: #FFFFFF;
+    background-color: #E50914;
+    padding: 4px 16px;
+    width: 100px;
+    height: 32px;
+    font-weight: 600;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+}
+
+.language {
+    background-color: #000000BF;
+    color: #FFFFFF;
+    width: 120px;
+    height: 32px;
+    padding: 6px;
+    text-align: right;
+    border: solid 1px #B3B3B3;
+    border-radius: 6px;
+    font-weight: 500;
+    margin-right: 15px;
+}
+
+.netflixlogoimg {
+    width: 155px;
+    height: 60px;
+    margin-left: 10px;
+}
+
+option {
+    background-color: #000000BF;
+}
